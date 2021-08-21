@@ -43,12 +43,17 @@ public class EntradaDeValores {
         Scanner scan = new Scanner(System.in);
         System.out.println("|=================================================================|");
         System.out.println("|==| Insira o nome do arquivo para continuar (\"Sair\" para sair) |==|");
+
+        System.out.print("|==| Nome do arquivo:");
+        fileName = scan.nextLine();
+
         while(!FileManager.fileChecker(fileName)){
             System.out.print("|==| Nome do arquivo:"); fileName = scan.nextLine();
             if(fileName.equals("Sair")){
                 break;
             }
         }
+
         if(!fileName.equals("Sair")){
             return FileManager.fileReader(fileName);
         }else{
