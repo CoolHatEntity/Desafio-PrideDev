@@ -1,4 +1,4 @@
-package com.desafioItau.executavel;
+package com.desafio.executavel;
 
 import java.util.Scanner;
 

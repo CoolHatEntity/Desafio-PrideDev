@@ -1,8 +1,8 @@
-package com.desafioItau.executavel;
+package com.desafio.executavel;
 
-import com.desafioItau.util.SorteadorDeEntradas;
-import com.desafioItau.util.SorteadorDeNumeros;
-import com.desafioItau.util.fileManager.EntradaDeValores;
+import com.desafio.util.SorteadorDeEntradas;
+import com.desafio.util.SorteadorDeNumeros;
+import com.desafio.util.fileManager.EntradaDeValores;
 
 import java.util.*;
 

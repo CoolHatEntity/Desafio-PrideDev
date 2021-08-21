@@ -1,8 +1,10 @@
-package com.desafioItau.util.fileManager;
+package com.desafio.util.fileManager;
 
 import java.util.*;
 
 public class EntradaDeValores {
+
+    //Responsável por lidar com a lógica por trás da entrada de dados pelo usuário
     public static Set<Integer> entradaConsole(){
         int entrada = 1;
         Scanner s = new Scanner(System.in);

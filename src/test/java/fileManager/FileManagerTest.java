@@ -1,6 +1,6 @@
 package fileManager;
 
-import com.desafioItau.util.fileManager.FileManager;
+import com.desafio.util.fileManager.FileManager;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

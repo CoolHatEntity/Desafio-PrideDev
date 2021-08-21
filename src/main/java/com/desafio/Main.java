@@ -1,7 +1,7 @@
-package com.desafioItau;
+package com.desafio;
 
-import com.desafioItau.executavel.SelecionadorDeMeses;
-import com.desafioItau.executavel.SorteadorMegaSena;
+import com.desafio.executavel.SelecionadorDeMeses;
+import com.desafio.executavel.SorteadorMegaSena;
 
 import java.util.Scanner;
 

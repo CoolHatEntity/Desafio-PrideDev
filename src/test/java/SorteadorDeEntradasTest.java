@@ -1,4 +1,4 @@
-import com.desafioItau.util.SorteadorDeEntradas;
+import com.desafio.util.SorteadorDeEntradas;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

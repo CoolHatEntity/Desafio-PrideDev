@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2200c5ad-e556-4b3f-b338-f3b1536b3732" name="Changes" comment="Adicionado testes finais e mais algumas refatoradas" />
+    <list default="true" id="2200c5ad-e556-4b3f-b338-f3b1536b3732" name="Changes" comment="Arrumado um pequeno typo em main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafio/util/SorteadorDeNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/util/SorteadorDeNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafio/util/fileManager/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/util/fileManager/FileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioItau/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioItau/executavel/SelecionadorDeMeses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/executavel/SelecionadorDeMeses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioItau/executavel/SorteadorMegaSena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/executavel/SorteadorMegaSena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioItau/util/SorteadorDeEntradas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/util/SorteadorDeEntradas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafioItau/util/fileManager/EntradaDeValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/util/fileManager/EntradaDeValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SorteadorDeEntradasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SorteadorDeEntradasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SorteadorNumerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SorteadorNumerosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fileManager/FileManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fileManager/FileManagerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +30,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -103,11 +120,11 @@
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.desafioItau.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.desafio.Main" />
       <module name="Desafio" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.desafioItau.*" />
+          <option name="PATTERN" value="com.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,7 +209,7 @@
       <updated>1628952345035</updated>
       <workItem from="1628952346755" duration="4088000" />
       <workItem from="1628968578509" duration="1030000" />
-      <workItem from="1629239516401" duration="48325000" />
+      <workItem from="1629239516401" duration="49251000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1629240910295</created>
@@ -229,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629522155706</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Arrumado um pequeno typo em main">
+      <created>1629522899901</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629522899901</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,17 +276,7 @@
     <MESSAGE value="Base do desafio Finalizado" />
     <MESSAGE value="Refatoradas adicionais" />
     <MESSAGE value="Adicionado testes finais e mais algumas refatoradas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado testes finais e mais algumas refatoradas" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/desafioItau/util/SorteadorDeNumeros.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Arrumado um pequeno typo em main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrumado um pequeno typo em main" />
   </component>
 </project>
