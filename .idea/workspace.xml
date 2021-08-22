@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2200c5ad-e556-4b3f-b338-f3b1536b3732" name="Changes" comment="Arrumado um pequeno erro em EntradaDeValores">
+    <list default="true" id="2200c5ad-e556-4b3f-b338-f3b1536b3732" name="Changes" comment="Arrumado uns detalhes no pom.xml e Alguns edge-cases relacionados a limitações do JUnit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arquivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entradas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Entradas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teste.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fileManager/FileManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fileManager/FileManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +98,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../GerenciadorDeSorteios" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -226,7 +220,7 @@
       <workItem from="1628968578509" duration="1030000" />
       <workItem from="1629239516401" duration="50898000" />
       <workItem from="1629526593201" duration="7136000" />
-      <workItem from="1629593192055" duration="2789000" />
+      <workItem from="1629593192055" duration="3823000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1629240910295</created>
@@ -277,7 +271,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629532129578</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Arrumado uns detalhes no pom.xml e Alguns edge-cases relacionados a limitações do JUnit">
+      <created>1629596294415</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629596294415</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Arrumado uns detalhes no pom.xml e Alguns edge-cases relacionados a limitações do JUnit">
+      <created>1629596315784</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629596315784</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +311,8 @@
     <MESSAGE value="Adicionado testes finais e mais algumas refatoradas" />
     <MESSAGE value="Arrumado um pequeno typo em main" />
     <MESSAGE value="Arrumado um pequeno erro em EntradaDeValores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrumado um pequeno erro em EntradaDeValores" />
+    <MESSAGE value="Arrumado uns detalhes no pom.xml e Alguns edge-cases relacionados a limitações do JUnit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrumado uns detalhes no pom.xml e Alguns edge-cases relacionados a limitações do JUnit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
