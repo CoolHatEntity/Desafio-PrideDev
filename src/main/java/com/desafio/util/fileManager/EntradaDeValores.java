@@ -33,7 +33,7 @@ public class EntradaDeValores {
                 System.out.print("|==| Insira o nome do arquivo:"); FileManager.fileWriter(s.nextLine(), entradas);
                 op = "N";
             }else if(!op.equals("N") && !op.equals("")){
-                System.out.println("|==| Opção Inválida!");
+                System.out.println("|==| Opçao Inválida!");
             }
         }
         return entradas;

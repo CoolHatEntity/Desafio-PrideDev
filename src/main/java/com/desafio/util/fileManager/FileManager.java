@@ -64,7 +64,7 @@ public class FileManager {
                     }
                 }
             }else{
-                System.out.println("|===| Arquivo não encontrado!");
+                System.out.println("|===| Arquivo nao encontrado!");
                 System.out.println("|===| Se desejar, pode criar um arquivo usando este mesmo programa");
                 return null;
             }

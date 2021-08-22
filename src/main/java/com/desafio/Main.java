@@ -13,7 +13,7 @@ public class Main {
         int op;
         printMenu();
         while(true){
-            System.out.print("|====| Insira sua opção:"); op = scan.nextInt();
+            System.out.print("|====| Insira sua opçao:"); op = scan.nextInt();
             if(op == 0){
                 SorteadorMegaSena.gerenciadorSorteios();
                 System.out.println("|====| Saindo da mega sena");

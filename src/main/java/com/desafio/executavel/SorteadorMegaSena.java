@@ -28,7 +28,7 @@ public class SorteadorMegaSena  extends SorteadorDeNumeros {
         System.out.println("|====| [2] - Ler números de um arquivo |====================|");
         System.out.println("|===========================================================|");
         while (op != 2 && op != 1 && op != 0){
-            System.out.print("|====| Insira sua opção:"); op = scan.nextInt();
+            System.out.print("|====| Insira sua opçao:"); op = scan.nextInt();
         }
         Set<Integer> valorEntrada = new HashSet<>();
         switch (op){
