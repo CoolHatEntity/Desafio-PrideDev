@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2200c5ad-e556-4b3f-b338-f3b1536b3732" name="Changes" comment="Arrumado um pequeno typo em main">
+    <list default="true" id="2200c5ad-e556-4b3f-b338-f3b1536b3732" name="Changes" comment="Arrumado um pequeno erro em EntradaDeValores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/desafio/util/fileManager/EntradaDeValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/desafio/util/fileManager/EntradaDeValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entradas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Entradas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fileManager/FileManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fileManager/FileManagerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +34,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedIndex" value="3" />
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1wirael0dqluMrEGGf0gvKfDEji" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -108,21 +113,11 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Matheus S. Menezes\IdeaProjects\Testes" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.desafio.Main" />
-      <module name="Desafio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.desafio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.FileManagerTest">
     <configuration name="FileManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desafio" />
       <extension name="coverage">
@@ -138,48 +133,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SorteadorDeEntradasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileManagerTest.deveSerCapazDeCriarArquivo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desafio" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SorteadorDeEntradasTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fileManager" />
+      <option name="MAIN_CLASS_NAME" value="fileManager.FileManagerTest" />
+      <option name="METHOD_NAME" value="deveSerCapazDeCriarArquivo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SorteadorNumerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileManagerTest.deveSerCapazDeCriarArquivoCasoNaoExistaOuRetornarFalsoCasoExista" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desafio" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SorteadorNumerosTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fileManager" />
+      <option name="MAIN_CLASS_NAME" value="fileManager.FileManagerTest" />
+      <option name="METHOD_NAME" value="deveSerCapazDeCriarArquivoCasoNaoExistaOuRetornarFalsoCasoExista" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SorteadorNumerosTest.garanteQueNenhumValorSorteadoEstaForaDaAmplitudeDesejada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FileManagerTest.deveSerCapazDeEscreverParaUmArquivo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desafio" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SorteadorNumerosTest" />
-      <option name="METHOD_NAME" value="garanteQueNenhumValorSorteadoEstaForaDaAmplitudeDesejada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fileManager" />
+      <option name="MAIN_CLASS_NAME" value="fileManager.FileManagerTest" />
+      <option name="METHOD_NAME" value="deveSerCapazDeEscreverParaUmArquivo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileManagerTest.deveSerCapazDeLerDeUmArquivo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Desafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fileManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fileManager" />
+      <option name="MAIN_CLASS_NAME" value="fileManager.FileManagerTest" />
+      <option name="METHOD_NAME" value="deveSerCapazDeLerDeUmArquivo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeLerDeUmArquivo" />
+      <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeCriarArquivo" />
       <item itemvalue="JUnit.FileManagerTest" />
-      <item itemvalue="JUnit.SorteadorNumerosTest" />
-      <item itemvalue="JUnit.SorteadorNumerosTest.garanteQueNenhumValorSorteadoEstaForaDaAmplitudeDesejada" />
-      <item itemvalue="JUnit.SorteadorDeEntradasTest" />
+      <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeEscreverParaUmArquivo" />
+      <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeCriarArquivoCasoNaoExistaOuRetornarFalsoCasoExista" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.SorteadorNumerosTest" />
-        <item itemvalue="JUnit.SorteadorDeEntradasTest" />
         <item itemvalue="JUnit.FileManagerTest" />
-        <item itemvalue="JUnit.SorteadorNumerosTest.garanteQueNenhumValorSorteadoEstaForaDaAmplitudeDesejada" />
+        <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeCriarArquivoCasoNaoExistaOuRetornarFalsoCasoExista" />
+        <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeLerDeUmArquivo" />
+        <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeCriarArquivo" />
+        <item itemvalue="JUnit.FileManagerTest.deveSerCapazDeEscreverParaUmArquivo" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +225,8 @@
       <workItem from="1628952346755" duration="4088000" />
       <workItem from="1628968578509" duration="1030000" />
       <workItem from="1629239516401" duration="50898000" />
-      <workItem from="1629526593201" duration="4136000" />
+      <workItem from="1629526593201" duration="7136000" />
+      <workItem from="1629593192055" duration="2789000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1629240910295</created>
@@ -238,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629522899901</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Arrumado um pequeno erro em EntradaDeValores">
+      <created>1629532129578</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629532129578</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +302,8 @@
     <MESSAGE value="Refatoradas adicionais" />
     <MESSAGE value="Adicionado testes finais e mais algumas refatoradas" />
     <MESSAGE value="Arrumado um pequeno typo em main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrumado um pequeno typo em main" />
+    <MESSAGE value="Arrumado um pequeno erro em EntradaDeValores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrumado um pequeno erro em EntradaDeValores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
