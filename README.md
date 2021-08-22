@@ -21,5 +21,5 @@ Distributed under the MIT License.
 
 ## Meios de contato
 
-Get more information about me at [jvwasquevite.com](https://jvwasquevite.com/) or email me at [joao@jvwasquevite.com](mailto:joao@jvwasquevite.com).
+Para poder me contatar, use este e-mail [email](matheus17menezes@gmail.com)
 
