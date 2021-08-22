@@ -21,5 +21,5 @@ Distributed under the MIT License.
 
 ## Meios de contato
 
-Para poder me contatar, use este e-mail [email](matheus17menezes@gmail.com)
+Para poder me contatar, use este e-mail [matheus17menezes@gmail.com](mailto:matheus17menezes@gmail.com).
 
