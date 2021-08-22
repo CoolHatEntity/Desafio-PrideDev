@@ -14,9 +14,9 @@ Seguindo os passos a seguir, será possível poder executar o projeto em sua má
    git clone https://github.com/CoolHatEntity/Desafio-PrideDev.git
    ```
 
-## License
+## Licença
 
-Distributed under the MIT License.
+Distribuído sobre a licença GNU Affero General Public License v3.0.
 
 
 ## Meios de contato
