@@ -1,4 +1,4 @@
-# Desafio PrideDev &middot; ![GitHub top language](https://img.shields.io/github/languages/top/CoolHatEntity/Desafio-PrideDev) ![Repo Size](https://img.shields.io/github/languages/code-size/CoolHatEntity/Desafio-PrideDev) ![License](https://img.shields.io/github/license/CoolHatEntity/Desafio-PrideDev)
+# Desafio PrideDev &middot; ![GitHub top language](https://img.shields.io/github/languages/top/mathsmnz/Desafio-PrideDev) ![Repo Size](https://img.shields.io/github/languages/code-size/mathsmnz/Desafio-PrideDev) ![License](https://img.shields.io/github/license/mathsmnz/Desafio-PrideDev)
 ## Sobre o projeto
 
 Esse repositório foi criado para conter os arquivos relacionados o projeto feito para resolver os desafios propostos ao fim do PrideDev, assim como alguns dos arquivos que serão úteis na hora de se testar o projeto 
@@ -11,7 +11,7 @@ Seguindo os passos a seguir, será possível poder executar o projeto em sua má
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/CoolHatEntity/Desafio-PrideDev.git
+   git clone https://github.com/mathsmnz/Desafio-PrideDev.git
    ```
 
 ## Licença
